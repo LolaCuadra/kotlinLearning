@@ -10,7 +10,7 @@ data class ChessPiece(val player: Int, val pieceType: String) {
             "Bishop" -> if (player == 1) "♗" else "♝"
             "Queen" -> if (player == 1) "♕" else "♛"
             "King" -> if (player == 1) "♔" else "♚"
-            else -> " x "
+            else -> " "
         }
         return pieceSymbol
     }

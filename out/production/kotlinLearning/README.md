@@ -8,13 +8,10 @@
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/db2a09b1ffd5408b80faaa7a79aa99d1?sid=1ca37bfd-f232-42e5-b16e-8a7b361f2209)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
@@ -25,8 +22,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- FIX BUG: switch in between players so its not only player one playing.
+- Implement winning rules
+- implement points
