@@ -82,6 +82,7 @@ class ChessBoard {
         currentPlayer = 3 - currentPlayer
         println("Player switched to $currentPlayer")
 
+        // TODO:
         // Check for checkmate, stalemate, or other game-over conditions (you need to implement this)
         // If a game-over condition is met, return false
 

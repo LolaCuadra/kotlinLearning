@@ -5,7 +5,7 @@ I started working on this about two weeks ago now, and I wanted to learn Kotlin,
 Although hard, I think with a little more time in my hands, this would've been a great multi-player game.
 It started without players, and letters. Just to later realize having turns would make more fun, so I started to implement that, and change the letters to actual [chess pieces](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode)
 
-[Software Demo Video](https://www.loom.com/share/db2a09b1ffd5408b80faaa7a79aa99d1?sid=1ca37bfd-f232-42e5-b16e-8a7b361f2209)
+[Video explaining my code](https://www.loom.com/share/66b4234ed5e84e5eada3adaab6e124ff?sid=e666ebd1-c6c9-4b42-bf9d-d183ac4521bf)
 
 # Development Environment
 
